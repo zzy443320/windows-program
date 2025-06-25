@@ -1,0 +1,799 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formlogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|d:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\bbqstore\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formaddgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formaddgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formaddgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formaddgoods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_select.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_select.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_select.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_select.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_select.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formupdatepwd_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formupdatepwd_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formupdatepwd_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formupdatepwd_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formorder_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formorder_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formorder_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formorder_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_introduce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_introduce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formorder_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formorder_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formorder_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formorder_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_comment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_comment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser_manage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser_manage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_introduce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_introduce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formgoods_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formgoods_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formupdatepwd_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formupdatepwd_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\formupdatepwd_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44379AA8-0391-4BE2-8122-579C03E765A2}|BBQstore.csproj|solutionrelative:formupdatepwd_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:22:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser.cs",
+              "RelativeDocumentMoniker": "FormUser.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser.cs",
+              "RelativeToolTip": "FormUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:15:09.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAdmin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "FormAdmin.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormAdmin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:16:15.356Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "FormAdmin.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.cs",
+              "RelativeToolTip": "FormAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:16:25.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogon.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormLogon.cs",
+              "RelativeDocumentMoniker": "FormLogon.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormLogon.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogon.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:49:26.08Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogon.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormLogon.cs",
+              "RelativeDocumentMoniker": "FormLogon.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormLogon.cs",
+              "RelativeToolTip": "FormLogon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:32:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormGoods_Select.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.cs",
+              "RelativeDocumentMoniker": "FormGoods_Select.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.cs",
+              "RelativeToolTip": "FormGoods_Select.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:12:30.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAddGoods.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAddGoods.cs",
+              "RelativeDocumentMoniker": "FormAddGoods.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAddGoods.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormAddGoods.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:33:09.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAddGoods.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAddGoods.cs",
+              "RelativeDocumentMoniker": "FormAddGoods.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAddGoods.cs",
+              "RelativeToolTip": "FormAddGoods.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:36:33.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:17:45.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormGoods_Car.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Car.cs",
+              "RelativeDocumentMoniker": "FormGoods_Car.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Car.cs",
+              "RelativeToolTip": "FormGoods_Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:11:24.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormGoods_Car.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Car.cs",
+              "RelativeDocumentMoniker": "FormGoods_Car.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Car.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormGoods_Car.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:49:52.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormGoods_Manage.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Manage.cs",
+              "RelativeDocumentMoniker": "FormGoods_Manage.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Manage.cs",
+              "RelativeToolTip": "FormGoods_Manage.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:30:00.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAdmin_feedback.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_feedback.cs",
+              "RelativeDocumentMoniker": "FormAdmin_feedback.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_feedback.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormAdmin_feedback.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:50:18.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormGoods_Select.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.cs",
+              "RelativeDocumentMoniker": "FormGoods_Select.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormGoods_Select.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:59:37.955Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormGoods_Select.resx",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.resx",
+              "RelativeDocumentMoniker": "FormGoods_Select.resx",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.resx",
+              "RelativeToolTip": "FormGoods_Select.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-18T10:39:59.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormGoods_Select.Designer.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.Designer.cs",
+              "RelativeDocumentMoniker": "FormGoods_Select.Designer.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Select.Designer.cs",
+              "RelativeToolTip": "FormGoods_Select.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:39:52.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormUser_comment.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_comment.cs",
+              "RelativeDocumentMoniker": "FormUser_comment.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_comment.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormUser_comment.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:21:47.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAdmin_comment.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_comment.cs",
+              "RelativeDocumentMoniker": "FormAdmin_comment.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_comment.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormAdmin_comment.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:06:00.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormUser.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser.cs",
+              "RelativeDocumentMoniker": "FormUser.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormUser.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:53:59.308Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormAdmin_feedback.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_feedback.cs",
+              "RelativeDocumentMoniker": "FormAdmin_feedback.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_feedback.cs",
+              "RelativeToolTip": "FormAdmin_feedback.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:53:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormUser_comment.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_comment.cs",
+              "RelativeDocumentMoniker": "FormUser_comment.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_comment.cs",
+              "RelativeToolTip": "FormUser_comment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:34:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAdmin_comment.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_comment.cs",
+              "RelativeDocumentMoniker": "FormAdmin_comment.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin_comment.cs",
+              "RelativeToolTip": "FormAdmin_comment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:07:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormUser_feedback.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_feedback.cs",
+              "RelativeDocumentMoniker": "FormUser_feedback.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_feedback.cs",
+              "RelativeToolTip": "FormUser_feedback.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:40:41.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormUser_feedback.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_feedback.cs",
+              "RelativeDocumentMoniker": "FormUser_feedback.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_feedback.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormUser_feedback.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:32:08.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:51:11.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormUser_Manage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_Manage.cs",
+              "RelativeDocumentMoniker": "FormUser_Manage.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_Manage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormUser_Manage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:36:23.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormUpdatePwd_User.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_User.cs",
+              "RelativeDocumentMoniker": "FormUpdatePwd_User.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_User.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormUpdatePwd_User.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:57:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormUpdatePwd_Admin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_Admin.cs",
+              "RelativeDocumentMoniker": "FormUpdatePwd_Admin.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_Admin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormUpdatePwd_Admin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:24:19.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormOrder_User.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_User.cs",
+              "RelativeDocumentMoniker": "FormOrder_User.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_User.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormOrder_User.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:12:05.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormOrder_Admin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_Admin.cs",
+              "RelativeDocumentMoniker": "FormOrder_Admin.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_Admin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormOrder_Admin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:12:45.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormGoods_Update.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Update.cs",
+              "RelativeDocumentMoniker": "FormGoods_Update.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Update.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormGoods_Update.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:37:37.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormGoods_Manage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Manage.cs",
+              "RelativeDocumentMoniker": "FormGoods_Manage.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Manage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormGoods_Manage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:25:45.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormGoods_Introduce.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Introduce.cs",
+              "RelativeDocumentMoniker": "FormGoods_Introduce.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Introduce.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormGoods_Introduce.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:19:58.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:28:39.729Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormOrder_Admin.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_Admin.cs",
+              "RelativeDocumentMoniker": "FormOrder_Admin.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_Admin.cs",
+              "RelativeToolTip": "FormOrder_Admin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wE0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:27:48.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormOrder_User.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_User.cs",
+              "RelativeDocumentMoniker": "FormOrder_User.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormOrder_User.cs",
+              "RelativeToolTip": "FormOrder_User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:35:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormUser_Manage.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_Manage.cs",
+              "RelativeDocumentMoniker": "FormUser_Manage.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_Manage.cs",
+              "RelativeToolTip": "FormUser_Manage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:48:44.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormUser_comment.Designer.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_comment.Designer.cs",
+              "RelativeDocumentMoniker": "FormUser_comment.Designer.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_comment.Designer.cs",
+              "RelativeToolTip": "FormUser_comment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:34:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormUser_Manage.Designer.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_Manage.Designer.cs",
+              "RelativeDocumentMoniker": "FormUser_Manage.Designer.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser_Manage.Designer.cs",
+              "RelativeToolTip": "FormUser_Manage.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:20:14.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:21:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-26T01:19:30.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "FormAdmin.Designer.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "FormAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:44:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormAdmin.resx",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.resx",
+              "RelativeDocumentMoniker": "FormAdmin.resx",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormAdmin.resx",
+              "RelativeToolTip": "FormAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-23T11:44:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormGoods_Introduce.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Introduce.cs",
+              "RelativeDocumentMoniker": "FormGoods_Introduce.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Introduce.cs",
+              "RelativeToolTip": "FormGoods_Introduce.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwC8AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:22:12.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormGoods_Update.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Update.cs",
+              "RelativeDocumentMoniker": "FormGoods_Update.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormGoods_Update.cs",
+              "RelativeToolTip": "FormGoods_Update.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:47:04.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormUpdatePwd_Admin.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_Admin.cs",
+              "RelativeDocumentMoniker": "FormUpdatePwd_Admin.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_Admin.cs",
+              "RelativeToolTip": "FormUpdatePwd_Admin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:41:00.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormUser.Designer.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser.Designer.cs",
+              "RelativeDocumentMoniker": "FormUser.Designer.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUser.Designer.cs",
+              "RelativeToolTip": "FormUser.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAASwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:54:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormUpdatePwd_User.cs",
+              "DocumentMoniker": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_User.cs",
+              "RelativeDocumentMoniker": "FormUpdatePwd_User.cs",
+              "ToolTip": "D:\\windows\u7F16\u7A0B\\\u70E7\u70E4\u5E97\u5546\u7528\u7CFB\u7EDF\\BBQstore\\FormUpdatePwd_User.cs",
+              "RelativeToolTip": "FormUpdatePwd_User.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:03:28.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

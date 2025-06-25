@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44379AA8-0391-4BE2-8122-579C03E765A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BBQstore</RootNamespace>
+    <AssemblyName>BBQstore</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBase.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddGoods.Designer.cs">
+      <DependentUpon>FormAddGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin_comment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin_comment.Designer.cs">
+      <DependentUpon>FormAdmin_comment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin_feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin_feedback.Designer.cs">
+      <DependentUpon>FormAdmin_feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGoods_Car.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGoods_Car.Designer.cs">
+      <DependentUpon>FormGoods_Car.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGoods_Introduce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGoods_Introduce.Designer.cs">
+      <DependentUpon>FormGoods_Introduce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGoods_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGoods_Manage.Designer.cs">
+      <DependentUpon>FormGoods_Manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGoods_Select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGoods_Select.Designer.cs">
+      <DependentUpon>FormGoods_Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGoods_Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGoods_Update.Designer.cs">
+      <DependentUpon>FormGoods_Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogon.Designer.cs">
+      <DependentUpon>FormLogon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrder_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrder_Admin.Designer.cs">
+      <DependentUpon>FormOrder_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrder_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrder_User.Designer.cs">
+      <DependentUpon>FormOrder_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdatePwd_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdatePwd_Admin.Designer.cs">
+      <DependentUpon>FormUpdatePwd_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdatePwd_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdatePwd_User.Designer.cs">
+      <DependentUpon>FormUpdatePwd_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser_comment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser_comment.Designer.cs">
+      <DependentUpon>FormUser_comment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser_feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser_feedback.Designer.cs">
+      <DependentUpon>FormUser_feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser_Manage.Designer.cs">
+      <DependentUpon>FormUser_Manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddGoods.resx">
+      <DependentUpon>FormAddGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin_comment.resx">
+      <DependentUpon>FormAdmin_comment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin_feedback.resx">
+      <DependentUpon>FormAdmin_feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGoods_Car.resx">
+      <DependentUpon>FormGoods_Car.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGoods_Introduce.resx">
+      <DependentUpon>FormGoods_Introduce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGoods_Manage.resx">
+      <DependentUpon>FormGoods_Manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGoods_Select.resx">
+      <DependentUpon>FormGoods_Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGoods_Update.resx">
+      <DependentUpon>FormGoods_Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogon.resx">
+      <DependentUpon>FormLogon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrder_Admin.resx">
+      <DependentUpon>FormOrder_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrder_User.resx">
+      <DependentUpon>FormOrder_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdatePwd_Admin.resx">
+      <DependentUpon>FormUpdatePwd_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdatePwd_User.resx">
+      <DependentUpon>FormUpdatePwd_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser_comment.resx">
+      <DependentUpon>FormUser_comment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser_feedback.resx">
+      <DependentUpon>FormUser_feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser_Manage.resx">
+      <DependentUpon>FormUser_Manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\img1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\login.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
